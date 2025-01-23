@@ -1,1 +1,1 @@
-#FuGo Saving & Credit Laravel App
+-FuGo Saving & Credit Laravel App
